@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '141'
     url: http://www.gutenberg.org/2009/agents/141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44621#Motion-Pictures-1960-1969Catalog-of-Copyright-Entries
 gutenberg_issued: '2014-01-08'
 gutenberg_type: Text
 identifiers:
